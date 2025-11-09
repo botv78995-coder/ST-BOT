@@ -21,7 +21,7 @@
   "prefix": "!",
   "usePrefix": {
     "enable": true,
-    "adminUsePrefix": {
+    "adminUsePrefix": 100094724217467
       "enable": true,
       "specificUids": []
     }
